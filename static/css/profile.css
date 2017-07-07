@@ -1,0 +1,8 @@
+body {
+	background-image: url("../images/dan.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container {
+	margin-top: 10%; 
+}
