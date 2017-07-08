@@ -3,6 +3,11 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
 .container {
 	margin-top: 10%; 
+}
+
+h3 > a {
+	font-size: 30px;
 }
